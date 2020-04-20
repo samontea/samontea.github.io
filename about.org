@@ -1,0 +1,15 @@
+---
+title: about
+---
+
+I did undergrad at Purdue University where I studyied Mathematics.
+While I was an undergraduate I worked for serveral organizations in addition to being an assistant teacher for the university.
+
+- NASA JPL (Pasadena) Summer 2020
+- Affirm Inc (San Francisco) Fall 2019
+- [[https://github.com/mongodb/mongo][MongoDB]] (New York) Summer 2017, Summer 2018, Summer 2019
+- NASA JSC (Houston) Spring 2017
+- Springbuk Inc (Indianapolis) Summer 2016
+
+I maintain the following libraries.
+- [[https://github.com/samontea/pace][pace.ex]] - A lightweight elixir performance analysis library.
