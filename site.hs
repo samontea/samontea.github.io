@@ -6,7 +6,7 @@ import           Hakyll
 
 --------------------------------------------------------------------------------
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith config $ do
     match "images/*" $ do
         route   idRoute
         compile copyFileCompiler
@@ -57,6 +57,25 @@ main = hakyll $ do
                 >>= relativizeUrls
 
     match "templates/*" $ compile templateCompiler
+
+config :: Configuration
+config = defaultConfiguration
+       { deployCommand = "\
+\git stash && \
+\git checkout develop && \
+\stack exec samontea clean && \
+\stack exec samontea build && \
+\git fetch --all && \
+\git checkout -b master --track origin/master && \
+\cp -a _site/. . && \
+\git add -A && \
+\git commit -m \"Publish.\" && \
+\git push origin master:master && \
+\git checkout develop && \
+\git branch -D master && \
+\git stash pop"
+    , previewPort = 4000
+    }
 
 
 --------------------------------------------------------------------------------
