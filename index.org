@@ -2,8 +2,9 @@
 title: home
 ---
 
-I'm sam. I write [[https://github.com/samontea][software]], and I used to study math at Purdue University.
-I'm currenlty interested in model categories, program verification, and distributed/nonrelational database systems.
+I'm Sam. I write [[https://github.com/samontea][software]]. I used to study math at Purdue University.
+
+I'm currently interested in model categories, program verification, and distributed/non-relational database management systems.
 
 ** recent blog posts
 $partial("templates/post-list.html")$

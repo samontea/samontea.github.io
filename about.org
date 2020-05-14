@@ -2,14 +2,26 @@
 title: about
 ---
 
-I did undergrad at Purdue University where I studyied Mathematics.
-While I was an undergraduate I worked for serveral organizations in addition to being an assistant teacher for the university.
+I did undergrad at Purdue University where I studied Mathematics.
+While I was an undergraduate I worked for several organizations:
 
-- NASA JPL (Pasadena) Summer 2020
-- Affirm Inc (San Francisco) Fall 2019
-- [[https://github.com/mongodb/mongo][MongoDB]] (New York) Summer 2017, Summer 2018, Summer 2019
-- NASA JSC (Houston) Spring 2017
-- Springbuk Inc (Indianapolis) Summer 2016
+- [[https://jpl.nasa.gov/][NASA JPL]] (Pasadena, CA) -- Summer 2020
+- [[https://www.affirm.com/][Affirm Inc.]] (San Francisco, CA) -- Fall 2019
+- [[https://github.com/mongodb/mongo][MongoDB]] (New York, NY) -- Summer 2017, Summer 2018, & Summer 2019
+- [[https://www.nasa.gov/centers/johnson][NASA JSC]] (Houston, TX) -- Spring 2017
+- [[https://www.springbuk.com/][Springbuk Inc.]] (Indianapolis, IN) -- Summer 2016
+
+Additionally, I taught the following classes as an Undergraduate Teaching Assistant:
+- CS 240 (Programming in C) -- Spring 2020
+- CS 252 (Systems Programming) -- Spring 2019
+- MA 162 (Plane Analytic Geometry and Calculus II) -- Spring 2019
+- CS 252 (Systems Programming) -- Fall 2018
+- MA 161 (Plane Analytic Geometry and Calculus I) -- Fall 2018
+- CS 252 (Systems Programming) -- Spring 2018
+- CS 240 (Programming in C) -- Fall 2016
+- CS 240 (Programming in C) -- Spring 2015
 
 I maintain the following libraries.
 - [[https://github.com/samontea/pace][pace.ex]] - A lightweight elixir performance analysis library.
+
+My full resume is available [[https://github.com/samontea/resume/blob/master/resume.pdf][here]] or as [[https://github.com/samontea/resume/raw/master/resume.pdf][a pdf]].
