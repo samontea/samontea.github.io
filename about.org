@@ -22,6 +22,7 @@ Additionally, I taught the following classes as an Undergraduate Teaching Assist
 - CS 240 (Programming in C) -- Spring 2015
 
 I maintain the following libraries.
+- [[https://github.com/samontea/asdf-smlnj][asdf-smlnj]] - An [[https://smlnj.org][SML/NJ]] plugin for the [[https://asdf-vm.com][asdf version manager]].
 - [[https://github.com/samontea/pace][pace.ex]] - A lightweight elixir performance analysis library.
 
 My full resume is available [[https://github.com/samontea/resume/blob/master/resume.pdf][here]] or as [[https://github.com/samontea/resume/raw/master/resume.pdf][a pdf]].

@@ -1,0 +1,25 @@
+* samontea.github.io
+** Setup
+*** Prerequisites
+- Haskell
+- Stack
+
+*** Install dependencies
+#+begin_src sh
+stack install
+#+end_src
+
+** Build
+#+begin_src sh
+stack exec samontea build
+#+end_src
+
+** Watch for changes & build
+#+begin_src sh
+stack exec samontea watch
+#+end_src
+
+** Publish
+#+begin_src sh
+stack exec samontea deploy
+#+end_src
