@@ -2,15 +2,15 @@ name:                samontea
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/samontea#readme
+homepage:            https://github.com/samontea/samontea.github.io
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2020 Author name here
+author:              Samuel Mercier
+maintainer:          sam [at] mrcr [dot] us
+copyright:           2020 Samuel Mercier
 category:            Web
 build-type:          Simple
-extra-source-files:  README.md
+extra-source-files:  README.org
 cabal-version:       >=1.10
 
 executable samontea
