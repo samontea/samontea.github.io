@@ -1,0 +1,16 @@
+---
+title: Going Forward — MSc at the University of Oxford
+date: 2022-03-28
+author: Sam
+---
+
+Hi Everyone,
+
+I just wanted to let you know what's going on with me.
+I'm set to leave my job at [[https://www.mongodb.com/][MongoDB]] in September to immigrate to the United Kingdom.
+I'll be pursuing a joint M.Sc. between the [[https://www.maths.ox.ac.uk/][Mathematical Institute]] and [[https://www.cs.ox.ac.uk/][Department of Computer Science]] at the [[https://www.ox.ac.uk/][University of Oxford]].
+The title of the course is [[https://www.maths.ox.ac.uk/study-here/postgraduate-study/msc-mathematics-and-foundations-computer-science][Mathematics and Foundations of Computer Sicence]] for those who are interested.
+
+All the best,
+
+Samuel
