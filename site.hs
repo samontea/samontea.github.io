@@ -17,13 +17,17 @@ main = hakyllWith config $ do
 
     match (fromList ["about.org", "contact.org", "linkinbio.org"]) $ do
         route   $ setExtension "html"
-        compile $ pandocCompiler
+        compile $ do
+          pandocCompiler
+            >>= applyAsTemplate defaultContext
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
     match "posts/*" $ do
         route $ setExtension "html"
-        compile $ pandocCompiler
+        compile $ do
+          pandocCompiler
+            >>= applyAsTemplate postCtx
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls

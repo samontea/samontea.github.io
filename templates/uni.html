@@ -1,0 +1,50 @@
+<style>
+ .uni-container {
+     display: flex;
+     flex-wrap: wrap;
+     margin: auto;
+     max-width: 800px;
+     align-items: center;
+     justify-content: space-around;
+     row-gap: 10px;
+ }
+ .uni-img-container {
+     width: 300px;
+     height: 100px;
+     position: relative;
+ }
+ .uni-img-container-square {
+     width: 100px;
+     height: 100px;
+     position: relative;
+ }
+ .uni-img-container img {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin: 0;
+     width: 300px;
+
+ }
+ .uni-img-container-square img {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     margin: 0;
+     width: 92px;
+
+ }
+</style>
+<div class="uni-container">
+    <a class="uni-img-container" href="https://www.ox.ac.uk">
+        <img src="/images/ox.svg" />
+    </a>
+    <a class="uni-img-container-square" href="https://www.exeter.ox.ac.uk">
+        <img src="/images/exeter_shield.png" />
+    </a>
+    <a class="uni-img-container" href="https://www.purdue.edu">
+        <img src="/images/purdue.png" />
+    </a>
+</div>

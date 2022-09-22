@@ -1,0 +1,23 @@
+---
+title: Going Forward — MSc at the University of Oxford
+post: true
+date: 2022-03-28
+author: <a href="/about.html">Sam</a>
+img: radcliffecamera.png
+img-source: <a href="https://unsplash.com/@lorencutler">Loren Cutler</a>
+---
+
+-----
+$partial("templates/uni.html")$
+-----
+
+
+I just wanted to let you know what's going on with me.
+I'm set to leave my job at [[https://www.mongodb.com/][MongoDB]] in September to immigrate to the United Kingdom.
+I'll be pursuing a joint M.Sc. between the [[https://www.maths.ox.ac.uk/][Mathematical Institute]] and [[https://www.cs.ox.ac.uk/][Department of Computer Science]] at the [[https://www.ox.ac.uk/][University of Oxford]] in [[https://www.exeter.ox.ac.uk/][Exeter College]] (the former home of MongoDB's nemesis [[https://en.wikipedia.org/wiki/Edgar_F._Codd][Edgar Codd]], who developed the relational data model).
+The title of the course is [[https://www.maths.ox.ac.uk/study-here/postgraduate-study/msc-mathematics-and-foundations-computer-science][Mathematics and Foundations of Computer Sicence]] for those who are interested.
+
+I'm sad to leave MongoDB where I've enjoyed many summers and the past two years working as an engineer.
+But I'm excited at the prospect of returning to university (even if it's not at a Big Ten school).
+
+Floreat Exon!

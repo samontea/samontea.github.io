@@ -2,6 +2,15 @@
 title: about
 ---
 
+I'm a postgraduate student at the University of Oxford pursuing a joint M.Sc. degree between the [[https://www.maths.ox.ac.uk/][Mathematical Institute]] and [[https://www.cs.ox.ac.uk/][Department of Computer Science]] at the [[https://www.ox.ac.uk/][University of Oxford]] as a member of [[https://www.exeter.ox.ac.uk/][Exeter College]].
+Before pursuing this degree I did undergraduate at Purdue University and a spent a couple of years at [[https://github.com/mongodb/][MongoDB]].
+
+** mongodb
+I spent two years working at [[https://github.com/mongodb][MongoDB]] developing their open-source, distributed, no-sql database management system.
+My work focused on their query language, query optimizer, and associated testing frameworks.
+
+** purdue university
+
 I did undergrad at Purdue University where I studied Mathematics.
 While I was an undergraduate, I worked for the following organizations:
 - [[https://jpl.nasa.gov/][NASA JPL]] (Pasadena, CA) -- Summer 2020
@@ -20,7 +29,7 @@ Additionally, I taught the following classes as an Undergraduate Teaching Assist
 - CS 240 (Programming in C) -- Fall 2016
 - CS 240 (Programming in C) -- Spring 2015
 
-I maintain the following libraries.
+Also, I maintained the following libraries.
 - [[https://github.com/samontea/asdf-smlnj][asdf-smlnj]] - An [[https://smlnj.org][SML/NJ]] plugin for the [[https://asdf-vm.com][asdf version manager]].
 - [[https://github.com/samontea/pace][pace.ex]] - A lightweight elixir performance analysis library.
 

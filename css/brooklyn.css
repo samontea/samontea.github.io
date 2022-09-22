@@ -16,15 +16,15 @@ body {
 }
 
 div#header {
-    background: url(../images/roman-mager-59976-unsplash.jpg) no-repeat;
+//    background: url("/images/roman-mager-59976-unsplash.jpg") no-repeat;
     background-size: cover;
 	background-position: center center;
-    margin-bottom: 30px;
+//    margin-bottom: 30px;
     padding: 2em 1em 2em 1em;
 }
 
 div#logo a {
-    color: #fff;
+//    color: #fff;
     float: left;
     font-size: 18px;
     font-weight: bold;
@@ -43,7 +43,7 @@ div#logo a:hover {
 }
 
 #header #nav a {
-    color: #fff;
+//    color: #fff;
     font-size: 18px;
     font-weight: bold;
     margin-left: 12px;
@@ -56,7 +56,9 @@ div#logo a:hover {
 }
 
 #content {
-	margin: 0px 1em 0px 1em;
+	margin: auto;
+	padding: 0px 1em 0px 1em;
+	max-width: 1024px;
 }
 
 #footer {
@@ -92,7 +94,8 @@ ul, ol {
 }
 
 a {
-    color: #720000;
+	color: #6876AD;
+	//    color: #720000;
     font-weight: 700;
     text-decoration: none;
 }
@@ -101,4 +104,12 @@ p {
     font-size: 14px;
     line-height: 20px;
     margin-bottom:20px;
+}
+
+.header-image {
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: cover;
+	height: 16em;
 }

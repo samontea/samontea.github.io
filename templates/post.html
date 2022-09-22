@@ -1,7 +1,14 @@
 <div class="info">
     Posted on $date$
     $if(author)$
-        by $author$
+    by $author$
+    $if(img-source)$
+    with
+    $endif$
+    $endif$
+    $if(img-source)$
+    image by
+    $img-source$
     $endif$
 </div>
 

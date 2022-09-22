@@ -1,10 +1,12 @@
 ---
-title: home
+title: hello!
+img: usgs-TSKlNIgK1P4-unsplash.jpg
 ---
 
-I'm Sam. I write [[https://github.com/samontea][software]]. I used to study math at Purdue University.
-
-I'm currently interested in model categories, program verification, and distributed/non-relational database management systems.
+I'm Sam. I currently study [[https://www.maths.ox.ac.uk][math]] and [[https://cs.ox.ac.uk][computer science]] at [[https://ox.ac.uk][Oxford]] where I'm a member of [[https://www.exeter.ox.ac.uk/][Exeter College]].
+Sometimes, I write [[https://github.com/samontea][software]].
+I used to study [[https://math.purdue.edu][math]] at [[https://purdue.edu][Purdue University]].
+I also used to write [[https://github.com/mongodb/mongo][software]] for [[https://mongodb.com][MongoDB]].
 
 ** recent blog posts
 $partial("templates/post-list.html")$
